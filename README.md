@@ -1,6 +1,6 @@
 # 🤖 AI Code Review Agent
 
-![Project Banner](https://i.imgur.com/JmYQ8zB.png) *(Sample banner - replace with your own)*
+![image](https://github.com/user-attachments/assets/5c126215-d290-4c21-ba1c-17d6a79897d2)
 
 ## 🌟 Overview
 
@@ -98,7 +98,7 @@ graph TD
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/ai-code-review-agent.git
+git clone https://github.com/muzaffar401/ai-code-review-agent.git
 cd ai-code-review-agent
 pip install -r requirements.txt
 ```
