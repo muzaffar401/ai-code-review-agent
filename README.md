@@ -1,6 +1,3 @@
-Here's a comprehensive `README.md` file for your AI Code Review Agent project with a workflow diagram:
-
-```markdown
 # 🤖 AI Code Review Agent
 
 ![Project Banner](https://i.imgur.com/JmYQ8zB.png) *(Sample banner - replace with your own)*
